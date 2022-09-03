@@ -68,7 +68,7 @@ window.onload = function() {
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
     // this is the url for the profile avatar
     avatarURL:
-      "https://i.pinimg.com/236x/dd/d8/b3/ddd8b3b27a9603c579cb98a367716692--einstein-quotes-albert-einstein.jpg",
+      "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mr-robot-fotogramas-1633377951.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
